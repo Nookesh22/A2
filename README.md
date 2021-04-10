@@ -15,6 +15,7 @@ git clone https://github.com/Nookesh22/A2.git
 
 Run the command
 
-python prober <ip>:<port> <OID-1> <OID-2> ... <OID-n>
+python prober 
+<ip>:<port> <OID-1> <OID-2> ... <OID-n>
 
 👍

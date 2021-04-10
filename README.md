@@ -11,7 +11,7 @@ NetSNMP
 **How to use it?**
 Simply clone the repository
 
-git clone https://github.com/sroopsai/ProbingApp.git
+git clone https://github.com/Nookesh22/A2.git
 
 Run the command
 

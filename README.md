@@ -1,6 +1,6 @@
 **Probing Application 🚀**
-This application is used to probe the devices connected to a network via SNMP protocol 😄.
-It is a command line application 💻.
+This application is used to probe the devices connected to a network via SNMP protocol .
+It is a command line application.
 
 
 **Prerequisites:**
